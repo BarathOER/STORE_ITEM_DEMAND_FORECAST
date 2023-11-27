@@ -1,6 +1,4 @@
-# Store-Item-Demand-Forecasting-Challenge
-This code is used in the Kaggle competition: Store-Item-Demand-Forecasting-Challenge. https://www.kaggle.com/c/demand-forecasting-kernels-only
-From this challenge, we can learn how to use machine learning for time series forecasting.
+
 # Getting Started
 The code is run in the Colab environment https://colab.research.google.com If you couldn't open the .ipynb file, please paste the link of the file to here: https://nbviewer.jupyter.org/
 # Techniques:
